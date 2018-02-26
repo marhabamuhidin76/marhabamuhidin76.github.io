@@ -1995,12 +1995,12 @@ li.sale-noti > a {
 }
 
 .slick3-dots li img {
-  width: 100%;
+  width: 40%;
 }
 
 .slick3-dot-overlay {
   position: absolute;
-  width: 100%;
+  width: 40%;
   height: 100%;
   top: 0;
   left: 0;
